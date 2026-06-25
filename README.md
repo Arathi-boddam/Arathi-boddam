@@ -15,61 +15,116 @@
 
 ### 🚀 About Me
 
-- 🎓 MS in Software Engineering @ **San José State University** (Dec 2026)
-- 💼 Software Engineer Intern @ **Salesforce** — built NLP-driven automation pipelines using Transformer models and embedding-based retrieval
-- 🧠 Work spans the full ML lifecycle: from CNN-LSTM encoder-decoder architectures for medical imaging, to deploying multi-algorithm predictive models in full-stack web apps
-- 🛠️ I build solutions that are both technically robust and practically impactful — scalable backend systems + intelligent applications
-- 🌱 Actively seeking **Summer 2026 internships** in AI/ML Engineering, Software Engineering, or Full-Stack Development
+- 🎓 MS in Software Engineering at **San Jose State University** (Jan 2025 - Dec 2026)
+- 💼 Former **Software Engineering Intern at Salesforce**, building backend services and AI-assisted platform workflows
+- 🧠 Experienced in backend engineering, RESTful APIs, distributed systems, generative AI applications, and full-stack product development
+- 🛠️ Comfortable working across Go, Python, Java, React, FastAPI, PostgreSQL, cloud infrastructure, and CI/CD pipelines
+- 🌱 Actively seeking **Software Engineering, AI/ML Engineering, and Full-Stack** internship opportunities
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Technical Skills
 
-**AI/ML Engineering**
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+</p>
+
+**Backend Development & APIs**
+<p>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-6C63FF?style=flat"/>
+</p>
+
+**Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+</p>
+
+**Generative AI & LLM Systems**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-1E3A8A?style=flat"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+  <img src="https://img.shields.io/badge/LangGraph-F97316?style=flat"/>
 </p>
 
-**Full-Stack Development**
+**Databases, Cloud & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
-
-**Cloud & Infrastructure**
-<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-4051B5?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
+**Engineering Fundamentals & Tooling**
+- OOP, Data Structures, Algorithms, System Design, multithreading, concurrency, SDLC, and cryptography
+- Git, Linux, Agile/Scrum, Jira, Jupyter, GitHub Copilot, Tableau, Power BI, code reviews, and technical documentation
+- Pytest, unit testing, integration testing, performance testing, test automation, and debugging techniques
+
+---
+
+### 💼 Experience
+
+**Salesforce | Software Engineering Intern**  
+*Jan 2024 - Dec 2024*
+
+- Engineered backend services in **Rust** for AI-assisted workflows, reducing end-to-end response latency by **20%** through query restructuring and request-path optimization
+- Built NLP-driven automation pipelines using **Transformer models** and embedding-based retrieval, processing high-volume support queries while improving response relevance
+- Analyzed tradeoffs across model accuracy, inference latency, and compute cost to improve inference efficiency under production constraints
+- Refined database access patterns with secure connection pooling and encryption-at-rest practices, improving backend throughput and reducing unnecessary compute utilization
+- Collaborated within an 8-member Agile engineering team across 6+ sprint cycles, contributing to code reviews, testing, and on-time delivery of frontend and backend features
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| **Dementia Prediction System** | Transfer Learning model for MRI-based dementia prediction using CNNs with hyperparameter tuning (GWO, PSO, GA, MBO); benchmarked 7+ ML algorithms |
-| **Grocify – Multi-Agent AI Orchestration Platform** | Redis-based blackboard coordination system for scalable multi-agent execution with DAG-based orchestration |
-| **Medical Imaging Caption Generator** | CNN+LSTM encoder-decoder model to auto-generate radiology captions from chest X-rays |
-| **NextGen LMS** | Full-stack Learning Management System built with React (Next.js), Node.js, AWS deployment, and Docker |
-| **Cloudathon @ SJSU 2026 – AWS Jam Challenge** | Top 5 ranking; implemented data lake encryption, serverless monitoring, and CDN delivery using AWS S3, KMS, Lambda, EventBridge, CloudFront |
+**NextGen LMS - Full Stack System**
+- Built a full-stack learning management platform using **React, FastAPI, and PostgreSQL**, collaborating through code reviews and CI/CD pipelines
+- Designed RESTful APIs with **FastAPI**, following clean code practices and writing **Pytest** tests for authentication, course enrollment, and content delivery
+- Streamlined relational schemas and queries to support high-volume course interactions
+- Improved user experience by restructuring layout components and optimizing navigation flow
+
+**Kayak Clone - AI-Powered Full-Stack Travel Booking Platform**
+- Built a travel booking platform using **React, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, and Kafka**, designed to scale toward **10K+ users on AWS**
+- Integrated agentic AI assistants with **LangChain + OpenAI** to support trip-planning conversations and automated booking validation
+- Engineered a fast search pipeline with **Redis caching**, reducing query latency by **45%**, and added integration tests plus Go scripting for deployment automation and debugging
+
+**Grocify - AI-Powered Grocery Management Platform**
+- Developed a full-stack grocery management product using **React, FastAPI, and PostgreSQL** for pantry tracking and automated shopping lists
+- Expanded a recommendation engine to analyze ingredient availability and dietary preferences, generating **100+ personalized meal suggestions** from curated recipe datasets
+- Built REST APIs for real-time inventory updates and recommendation queries, supporting scalable backend interactions and optimized database access
 
 ---
 
