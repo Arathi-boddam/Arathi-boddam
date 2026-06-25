@@ -88,10 +88,41 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 </p>
 
-**Engineering Fundamentals & Tooling**
-- OOP, Data Structures, Algorithms, System Design, multithreading, concurrency, SDLC, and cryptography
-- Git, Linux, Agile/Scrum, Jira, Jupyter, GitHub Copilot, Tableau, Power BI, code reviews, and technical documentation
-- Pytest, unit testing, integration testing, performance testing, test automation, and debugging techniques
+**Software Engineering Fundamentals**
+<p>
+  <img src="https://img.shields.io/badge/OOP-2563EB?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-1D4ED8?style=flat"/>
+  <img src="https://img.shields.io/badge/Algorithms-1E40AF?style=flat"/>
+  <img src="https://img.shields.io/badge/System%20Design-3730A3?style=flat"/>
+  <img src="https://img.shields.io/badge/Multithreading-5B21B6?style=flat"/>
+  <img src="https://img.shields.io/badge/Concurrency-6D28D9?style=flat"/>
+  <img src="https://img.shields.io/badge/SDLC-7C3AED?style=flat"/>
+  <img src="https://img.shields.io/badge/Cryptography-7E22CE?style=flat"/>
+</p>
+
+**Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Agile%2FScrum-0F766E?style=flat"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat"/>
+  <img src="https://img.shields.io/badge/Code%20Reviews-334155?style=flat"/>
+  <img src="https://img.shields.io/badge/Technical%20Documentation-475569?style=flat"/>
+</p>
+
+**Testing & Automation**
+<p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat"/>
+  <img src="https://img.shields.io/badge/Unit%20Testing-0284C7?style=flat"/>
+  <img src="https://img.shields.io/badge/Integration%20Testing-0369A1?style=flat"/>
+  <img src="https://img.shields.io/badge/Performance%20Testing-075985?style=flat"/>
+  <img src="https://img.shields.io/badge/Test%20Automation-0C4A6E?style=flat"/>
+  <img src="https://img.shields.io/badge/Debugging%20Techniques-1E3A8A?style=flat"/>
+</p>
 
 ---
 
