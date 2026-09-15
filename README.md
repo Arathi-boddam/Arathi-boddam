@@ -128,8 +128,8 @@
 
 ### 💼 Experience
 
-**Salesforce | Software Engineering Intern**  
-*Jan 2024 - Dec 2024*
+**Salesforce | Software Engineer**  
+*May 2023 - Dec 2024*
 
 - Engineered backend services in **Rust** for AI-assisted workflows, reducing end-to-end response latency by **20%** through query restructuring and request-path optimization
 - Built NLP-driven automation pipelines using **Transformer models** and embedding-based retrieval, processing high-volume support queries while improving response relevance
